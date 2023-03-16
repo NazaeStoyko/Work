@@ -1,0 +1,64 @@
+
+*{
+ 
+}
+.conteiner{
+    max-width: 1900px;
+    padding: 0px 100px;
+   display: block;
+}
+.table-head{
+    width: 100%;
+    text-align: left;
+    padding-top: 100px;
+}
+.style{
+ text-align: right;
+ padding: 0;
+ margin: 0;
+width: 250px;
+}
+.header1{
+    padding-top: 100px;
+}
+hr
+{
+ width:30px;
+ height: 2px;
+
+ border-radius: 3px;
+ padding: 0px;  
+ margin: 0px;
+ background-color: #000;
+}
+.table-main{
+    padding-top: 70px;
+    width: 100%;
+    
+    text-align: left;
+}
+.theader-maingr{
+   padding-bottom: 40px;
+   margin: 20px 140px;
+  border-bottom: 2px solid #f4f4f4; 
+}
+.fotter-table{
+    width: 100%;
+}
+.text-right{
+    text-align:right;
+}
+.bottom-line{
+    width: 1263px;
+    margin: 20px 0px;
+    
+}
+.tex-end1{
+
+    text-align: left;
+    margin: 50px 0px;
+}
+.tex-end2{
+    text-align: left;
+    margin: 50px 0px;
+}
