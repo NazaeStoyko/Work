@@ -1,0 +1,130 @@
+* {
+    margin: 0px;
+}
+
+.conteiner {
+    max-width: 1900px;
+    padding: 10px 40px;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.text-header {
+    margin: 0px;
+    padding: 0px;
+    font-size: 35px;
+    text-align: justify;
+
+}
+
+.header-left {
+    float: left;
+    width: 50%;
+
+}
+
+.header-right {
+    float: right;
+    text-align: right;
+    width: 50%;
+
+}
+
+.text-header-right {
+    text-align: right;
+    padding-right: 70px;
+
+}
+
+.text-header-left {
+    margin-top: 20px;
+
+}
+
+.text-conteiner {
+    padding-top: 45px;
+    float: right;
+    text-align: right;
+
+}
+
+hr {
+    width: 30px;
+    height: 2px;
+
+    border-radius: 3px;
+    padding: 0px;
+    margin: 20px 0px;
+    background-color: #000;
+
+}
+
+.conteiner-left {
+    width: 100%;
+    padding-top: 200px;
+    margin: 0px;
+
+}
+
+.text-conteiner-left {
+    float: left;
+
+}
+
+.text-conteiner-right {
+    text-align: right;
+
+}
+
+
+.style {
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    width: 250px;
+
+}
+
+.header1 {
+    padding-top: 100px;
+
+}
+
+.table-main {
+    padding-top: 70px;
+    width: 100%;
+    text-align: left;
+
+}
+
+.theader-maingr {
+    padding: 10px 0px 30px 0px;
+    margin: 20px 140px;
+    border-bottom: 2px solid #86868665;
+
+}
+
+.theader-maingr-and {
+    padding: 10px 0px 30px 0px;
+    margin: 20px 140px;
+    border-bottom: 2px solid #000;
+
+}
+
+.conteiner-left-2 {
+    width: 100%;
+    padding-top: 50px;
+    margin: 0px;
+
+}
+.table-main-2 {
+    padding-top: 20px;
+    width: 100%;
+    text-align: left;
+
+}
